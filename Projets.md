@@ -5,11 +5,11 @@ _________________________________________________________________________
 
 *Développeur web junior, en formation "Développement Web et Accessibilité"*
 
-[Accueil](README.md) - [Projets](Projets.md) - [CV](https://user-images.githubusercontent.com/48276632/202425675-715e6b58-7bb0-4874-9a03-50818c416c60.png) - [Contact](https://github.com/GuillaumePOREZ72)
+[Accueil](README.md) - [Projets](Projets.md) - [CV](CV.md) - [Contact](https://github.com/GuillaumePOREZ72)
 
 ## Mes projets
 _____________________________________
-
+s
 | **Client** | **Dates** | **Technologies** | **Liens** |
 |----------- | --------- | ---------------- |-----------|
 | Microsoft | 2022 | HTML, SASS, JavaScript | [Microsoft](https://www.microsoft.com/fr-fr)
