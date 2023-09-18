@@ -12,7 +12,7 @@ N'hésitez pas une seule seconde, contactez-moi !
 
 :mailbox: guillaume.porez@oclock.school
 
-:telephone_receiver: 06.06.06.06.06
+:telephone_receiver: 06.18.24.66.73
 
 :necktie: [LinkedIn]()
 
