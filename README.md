@@ -5,7 +5,7 @@ ______________
 
   *Développeur web junior, en formation "Développement Web et Accessibilité"*
 
-[Accueil](https://github.com/GuillaumePOREZ72/S01E11-Atelier-Recap-ExoGuiGui/blob/main/Projets.md) - [Projets](https://user-images.githubusercontent.com/48276632/202415992-40bfeac0-2883-4155-a8fe-485419e13ca5.png) - [CV](https://user-images.githubusercontent.com/48276632/202415992-40bfeac0-2883-4155-a8fe-485419e13ca5.png) - [Contact](https://user-images.githubusercontent.com/48276632/202415992-40bfeac0-2883-4155-a8fe-485419e13ca5.png)
+[Accueil](https://github.com/GuillaumePOREZ72/S01E11-Atelier-Recap-ExoGuiGui/blob/main/Projets.md) - [Projets](https://user-images.githubusercontent.com/48276632/202415992-40bfeac0-2883-4155-a8fe-485419e13ca5.png) - [CV](https://user-images.githubusercontent.com/48276632/202415992-40bfeac0-2883-4155-a8fe-485419e13ca5.png) - [Contact](https://github.com/GuillaumePOREZ72)
 
 
 ## Présentation
@@ -17,6 +17,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ___________________________________________________________________
 
-2023 - Guillaume Porez - [Me contacter](https://user-images.githubusercontent.com/48276632/202415992-40bfeac0-2883-4155-a8fe-485419e13ca5.png)
+2023 - Guillaume Porez - [Me contacter](https://github.com/GuillaumePOREZ72)
 
 
