@@ -5,7 +5,7 @@ ______________
 
   *Développeur web junior, en formation "Développement Web et Accessibilité"*
 
-[Accueil](README.md) - [Projets](Projets.md) - [Cv]() - [Contact](https://github.com/GuillaumePOREZ72)
+[Accueil](README.md) - [Projets](Projets.md) - [Cv]() - [Contact](contact.md)
 
 
 ## Présentation
@@ -17,6 +17,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ___________________________________________________________________
 
-© 2023 - Guillaume Porez - [Me contacter](https://github.com/GuillaumePOREZ72)
+© 2023 - Guillaume Porez - [Me contacter](contact.md)
 
 

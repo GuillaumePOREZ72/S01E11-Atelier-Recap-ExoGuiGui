@@ -5,7 +5,7 @@
 
 **Développement Web et Accessibilité"*
 
-[Accueil](README.md) - [Projets](Projets.md) - [CV](CV.md) - [Contact](https://github.com/GuillaumePOREZ72)
+[Accueil](README.md) - [Projets](Projets.md) - [CV](CV.md) - [Contact](contact.md)
 
 ## CV
 
@@ -38,5 +38,5 @@
 
 ________________________________
 
-© 2023 - Guillaume Porez - [Me contacter](https://github.com/GuillaumePOREZ72)
+© 2023 - Guillaume Porez - [Me contacter](contact.md)
 
