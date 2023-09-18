@@ -38,5 +38,5 @@ ____________________________________________
 
 ________________________________
 
-2023 - Guillaume Porez - [Me contacter](https://github.com/GuillaumePOREZ72)
+© 2023 - Guillaume Porez - [Me contacter](https://github.com/GuillaumePOREZ72)
 
