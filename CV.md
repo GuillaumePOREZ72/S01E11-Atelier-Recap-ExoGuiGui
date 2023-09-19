@@ -1,4 +1,4 @@
-![bureau](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCT5tWMV5wVZU6iS7HxuepwN31p3jRAMeHOEseE7nqIIOJZOBGxUVAD8N-bjlj93_YSg&usqp=CAU)
+![bannière bureau](https://c8.alamy.com/compfr/2gyedgm/codeur-afro-americain-utilisant-l-ordinateur-au-bureau-developpeur-web-2gyedgm.jpg)
 
 # Guillaume Porez
 
